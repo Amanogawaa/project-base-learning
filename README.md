@@ -1,1 +1,1 @@
-a compilation of project from https://github.com/practical-tutorials/project-based-learning.git
+a compilation of project from [https://github.com/practical-tutorials/project-based-learning.git](https://github.com/practical-tutorials/project-based-learning)
